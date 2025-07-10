@@ -6,4 +6,4 @@ langchain
 langchain-community
 langchain-core
 groq
-sqlite3
+python-multipart
