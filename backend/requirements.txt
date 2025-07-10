@@ -8,3 +8,5 @@ langchain-core
 groq
 python-multipart
 langchain-groq
+pypdf
+olmocr
