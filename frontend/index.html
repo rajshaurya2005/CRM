@@ -381,7 +381,8 @@
                     }
                     showToast("Document processed and leads uploaded!");
                     fetchLeads();
-                } catch (e) {
+                }
+                catch (e) {
                     console.error("Error uploading document:", e);
                     setError(e.message);
                     showToast(e.message, "error");
